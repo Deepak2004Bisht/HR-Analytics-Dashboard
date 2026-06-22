@@ -157,15 +157,15 @@ Heatmap visualization displaying satisfaction ratings across departments.
 
 📊 Business Impact & Insights
 
-📉 Attrition Reduction: Identifies departments and employee groups with higher turnover.
+• 📉 Attrition Reduction: Identifies departments and employee groups with higher turnover.
 
-👨‍💼 Workforce Planning: Supports data-driven hiring and retention strategies.
+• 👨‍💼 Workforce Planning: Supports data-driven hiring and retention strategies.
 
-💰 Compensation Analysis: Helps evaluate salary distribution across job roles.
+• 💰 Compensation Analysis: Helps evaluate salary distribution across job roles.
 
-⭐ Employee Experience: Tracks job satisfaction and performance metrics.
+• ⭐ Employee Experience: Tracks job satisfaction and performance metrics.
 
-📈 HR Decision Making: Enables proactive workforce management and policy improvements.
+• 📈 HR Decision Making: Enables proactive workforce management and policy improvements.
 
 <h2>🖼 Dashboard Screenshots</h2>
 <img src="https://github.com/Deepak2004Bisht/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Image.png" />
